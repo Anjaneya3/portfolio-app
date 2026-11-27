@@ -1,0 +1,192 @@
+{
+  "profile": {
+    "name": "Anjaneya Kariguli",
+    "tagline": "Build • Code • Innovate",
+    "motto": "Dream · Develop · Grow",
+    "headlineFirst": "Java Full Stack Developer",
+    "headlineSecond": "Aspiring Software Engineer",
+    "intro": "Passionate developer, always eager to build real-world applications, solve problems and learn new technologies.",
+    "about": [
+      "I am a final-year B.Tech student in Computer Science and Technology at Presidency University, Bengaluru, graduating in 2027. Most of my projects are full stack: a React interface, a Java backend and a MySQL database.",
+      "I learn by building. A task dashboard, an expense tracker and a placement management system each taught me something different, from managing state in the browser to designing tables that stay consistent as an app grows. I also enjoy working through programming problems and data structures.",
+      "I am aiming for a role as a software engineer, where I can work on real systems, write code that other people can maintain, and take a feature from design to deployment. NCC has taught me discipline and how to work well in a team, and I bring both to group work."
+    ],
+    "location": "Bengaluru, India",
+    "email": "iamanjaneyakariguli@gmail.com",
+    "linkedin": "https://linkedin.com/in/anjaneya-r",
+    "github": "https://github.com/Anjaneya3",
+    "resumeUrl": "",
+    "photoUrl": "/profile.jpg",
+    "heroIcons": [
+      "react",
+      "java",
+      "springboot",
+      "mysql",
+      "github"
+    ]
+  },
+  "skillGroups": [
+    {
+      "id": "frontend",
+      "title": "Frontend",
+      "items": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React.js"
+      ]
+    },
+    {
+      "id": "backend",
+      "title": "Backend",
+      "items": [
+        "Java",
+        "Spring Boot",
+        "REST APIs"
+      ]
+    },
+    {
+      "id": "database",
+      "title": "Database",
+      "items": [
+        "MySQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "id": "tools",
+      "title": "Tools",
+      "items": [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Eclipse"
+      ]
+    },
+    {
+      "id": "core",
+      "title": "Core concepts",
+      "items": [
+        "OOP",
+        "DSA",
+        "DBMS",
+        "Operating systems",
+        "Computer networks"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "task-dashboard",
+      "title": "Personal Task Management Dashboard",
+      "description": "A dashboard for planning daily tasks. Create, edit and delete tasks, in a layout that works on phones as well as desktops.",
+      "technologies": [
+        "React.js",
+        "JavaScript",
+        "CSS"
+      ],
+      "image": "",
+      "githubUrl": "",
+      "liveUrl": "",
+      "status": "Completed",
+      "featured": false,
+      "published": true
+    },
+    {
+      "id": "income-tracker",
+      "title": "Income and Expense Tracker",
+      "description": "Record income and expenses to see where the money goes. A React interface talks to a Spring Boot REST API that stores everything in MySQL.",
+      "technologies": [
+        "React.js",
+        "Spring Boot",
+        "MySQL"
+      ],
+      "image": "",
+      "githubUrl": "",
+      "liveUrl": "",
+      "status": "Completed",
+      "featured": true,
+      "published": true
+    },
+    {
+      "id": "placement-system",
+      "title": "Student Placement Management System",
+      "description": "A system for managing student records and placement activity in one place, built with Java, Spring Boot and MySQL.",
+      "technologies": [
+        "Java",
+        "Spring Boot",
+        "MySQL"
+      ],
+      "image": "",
+      "githubUrl": "",
+      "liveUrl": "",
+      "status": "Completed",
+      "featured": true,
+      "published": true
+    },
+    {
+      "id": "gan-leaf-disease",
+      "title": "GAN-Based Plant Leaf Disease Detection",
+      "description": "Uses a conditional DCGAN to generate extra leaf images, which expands the training data for a plant disease detection model.",
+      "technologies": [
+        "Deep Learning",
+        "Conditional DCGAN",
+        "Image augmentation"
+      ],
+      "image": "",
+      "githubUrl": "",
+      "liveUrl": "",
+      "status": "Completed",
+      "featured": false,
+      "published": true
+    }
+  ],
+  "education": [
+    {
+      "id": "btech",
+      "degree": "B.Tech, Computer Science and Technology",
+      "institution": "Presidency University, Bengaluru",
+      "period": "Expected 2027",
+      "details": ""
+    }
+  ],
+  "certifications": [
+    {
+      "id": "java",
+      "title": "Java certification",
+      "issuer": ""
+    },
+    {
+      "id": "sql",
+      "title": "SQL certification",
+      "issuer": ""
+    },
+    {
+      "id": "python",
+      "title": "Python certification",
+      "issuer": ""
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ncc-b",
+      "title": "NCC B Certificate",
+      "description": ""
+    },
+    {
+      "id": "ncc-c",
+      "title": "NCC C Certificate",
+      "description": ""
+    },
+    {
+      "id": "ncc-camps",
+      "title": "NCC camps",
+      "description": ""
+    },
+    {
+      "id": "leadership",
+      "title": "Leadership and extracurricular activities",
+      "description": ""
+    }
+  ]
+}
